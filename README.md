@@ -9,7 +9,7 @@ awesome [sharp](https://github.com/lovell/sharp) image library under the hood.
 
 Let's say you have a static blog in Hexo, and you keep your awesome full-size
 photos in your `_source` directory with your Markdown files. You want to keep
-your original photos, but they're way too big to serve to your users.
+your original photos, but they are way too big to serve to your users.
 
 You could manually scale each image, perhaps to the content width of your site.
 But what if you change your site theme? You need to resize all those images
